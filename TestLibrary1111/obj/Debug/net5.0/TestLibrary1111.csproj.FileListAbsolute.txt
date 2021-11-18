@@ -1,0 +1,12 @@
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\TestLibrary1111.deps.json
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\TestLibrary1111.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\ref\TestLibrary1111.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\TestLibrary1111.pdb
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.AssemblyInfoInputs.cache
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.AssemblyInfo.cs
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.csproj.CoreCompileInputs.cache
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\ref\TestLibrary1111.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.pdb
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\TestLibrary1111.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\OrderSqlTestLibrary.deps.json
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\OrderSqlTestLibrary.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\ref\OrderSqlTestLibrary.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\bin\Debug\net5.0\OrderSqlTestLibrary.pdb
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.AssemblyInfoInputs.cache
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.AssemblyInfo.cs
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.csproj.CoreCompileInputs.cache
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\ref\OrderSqlTestLibrary.dll
+F:\VSProjects\TestApp1111\TestLibrary1111\obj\Debug\net5.0\OrderSqlTestLibrary.pdb
